@@ -1,1 +1,1 @@
-# Course-of-web-development-tools
+# Course of web development tools
